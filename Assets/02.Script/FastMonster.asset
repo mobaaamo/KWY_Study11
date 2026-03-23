@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ae2a662f2b3f124e88dc278db557ebf, type: 3}
+  m_Name: FastMonster
+  m_EditorClassIdentifier: 
+  monsterName: FastMonster
+  maxHp: 3
+  moveSpeed: 8
+  prefab: {fileID: 8450737692353205127, guid: 1e1d8661f6f339141b782fbeb5c65ec2, type: 3}
